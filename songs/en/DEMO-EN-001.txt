@@ -1,0 +1,13 @@
+ID: DEMO-EN-001
+TITLE: A Song of Thanks (Demo)
+LANGUAGE: en
+KEY: G
+VERSION: 1
+
+[Verse 1]
+$G With thankful hearts $Em we greet this day.
+$C In every step $D guide us along the way.
+
+[Chorus]
+$G Let kindness grow, $C let hope shine through.
+$Am In all we do, $D our thanks we bring to $G You.

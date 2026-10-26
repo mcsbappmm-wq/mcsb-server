@@ -1,0 +1,13 @@
+ID: DEMO-ZH-001
+TITLE: 感恩的歌（示例）
+LANGUAGE: zh
+KEY: D
+VERSION: 1
+
+[Verse 1]
+$D 新的一天 $Bm 献上感谢
+$G 求你引领 $A 我们的脚步
+
+[Chorus]
+$D 心中有爱 $G 心中有盼望
+$Em 每一天 $A 向你献上 $D 赞美
