@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": 5,
+  "catalog_version": 6,
   "songs": [
     {
       "id": "DEMO-MM-001",
@@ -73,7 +73,21 @@
         "Hymns",
         "Prayer"
       ]
+    },
+    {
+      "id": "0000004",
+      "title": "Tidem song test 1",
+      "language": "mm-tedim-chin",
+      "key": "C",
+      "version": 1,
+      "path": "songs/mm-tedim-chin/0000004.txt",
+      "size_bytes": 154,
+      "sha256": "9f854e24cdcd0da01e8c2be083e7e68dfbf62a8f932045add92560cf25d871d9",
+      "tags": [
+        "Hymns",
+        "Faith"
+      ]
     }
   ],
-  "last_song_number": 3
+  "last_song_number": 4
 }

@@ -1,0 +1,11 @@
+ID: 0000004
+TITLE: Tidem song test 1
+LANGUAGE: mm-tedim-chin
+KEY: C
+VERSION: 1
+COMPOSER: AA
+SINGER: BB
+TAGS: Hymns, Faith
+
+$C God is Good
+$G All the time
