@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "catalog_version": 3,
+  "songs": [
+    {
+      "id": "DEMO-MM-001",
+      "title": "နမူနာ ချီးမွမ်းသီချင်း",
+      "language": "my",
+      "key": "C",
+      "version": 1,
+      "path": "songs/my/DEMO-MM-001.txt",
+      "size_bytes": 505,
+      "sha256": "404c87d014609acc97f14940c5a718f734d65107f683ab4d404c2c2909db6fa7"
+    },
+    {
+      "id": "DEMO-EN-001",
+      "title": "A Song of Thanks (Demo)",
+      "language": "en",
+      "key": "G",
+      "version": 1,
+      "path": "songs/en/DEMO-EN-001.txt",
+      "size_bytes": 291,
+      "sha256": "9920f3bec7b83fc3222d5ec2de068910b862ea30b8ce8dacb5581c8e508a86d6"
+    },
+    {
+      "id": "DEMO-ZH-001",
+      "title": "感恩的歌（示例）",
+      "language": "zh",
+      "key": "D",
+      "version": 1,
+      "path": "songs/zh/DEMO-ZH-001.txt",
+      "size_bytes": 243,
+      "sha256": "4eb9bd3ee233351a5ce01d00f87612f32db33ec51bed2163325e69e710c2c859"
+    },
+    {
+      "id": "0000001",
+      "title": "ID စမ်းသပ်သီချင်း",
+      "language": "my",
+      "key": "C",
+      "version": 1,
+      "path": "songs/my/0000001.txt",
+      "size_bytes": 376,
+      "sha256": "4827ac44486c60114fb47adc0896ff821bca758611dee49d096ae2647229e584"
+    },
+    {
+      "id": "0000002",
+      "title": "Form စမ်းသပ်သီချင်း",
+      "language": "my",
+      "key": "C",
+      "version": 1,
+      "path": "songs/my/0000002.txt",
+      "size_bytes": 411,
+      "sha256": "fd7879e76b2592e7d86da4c27da49f4d34ba782d2b1a8912cb06247f3e8e6940"
+    }
+  ],
+  "last_song_number": 2
+}

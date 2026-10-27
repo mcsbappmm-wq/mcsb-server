@@ -1,0 +1,11 @@
+ID: 0000003
+TITLE: Test song
+LANGUAGE: my
+KEY: C
+VERSION: 1
+COMPOSER: SCP
+SINGER: SSG
+SCRIPTURE: Cript
+TAGS: Hymns, Prayer
+
+Hello $C how are you $G
