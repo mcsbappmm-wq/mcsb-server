@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": 2,
+  "catalog_version": 3,
   "songs": [
     {
       "id": "DEMO-MM-001",
@@ -41,7 +41,17 @@
       "path": "songs/my/0000001.txt",
       "size_bytes": 376,
       "sha256": "4827ac44486c60114fb47adc0896ff821bca758611dee49d096ae2647229e584"
+    },
+    {
+      "id": "0000002",
+      "title": "Form စမ်းသပ်သီချင်း",
+      "language": "my",
+      "key": "C",
+      "version": 1,
+      "path": "songs/my/0000002.txt",
+      "size_bytes": 411,
+      "sha256": "fd7879e76b2592e7d86da4c27da49f4d34ba782d2b1a8912cb06247f3e8e6940"
     }
   ],
-  "last_song_number": 1
+  "last_song_number": 2
 }

@@ -1,0 +1,12 @@
+ID: 0000002
+TITLE: Form စမ်းသပ်သီချင်း
+LANGUAGE: my
+KEY: C
+VERSION: 1
+COMPOSER: နမူနာရေးသူ
+SINGER: နမူနာသီဆိုသူ
+TAGS: Contemporary Praise, Thanksgiving
+
+[Verse 1]
+$C ကိုယ်တော်ကို $Am ချီးမွမ်းပါမည်
+$F နေ့ရက်တိုင်း $G ကျေးဇူးတင်ပါမည်
