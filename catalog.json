@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
+  "catalog_version": 2,
   "songs": [
     {
       "id": "DEMO-MM-001",
@@ -31,6 +31,17 @@
       "path": "songs/zh/DEMO-ZH-001.txt",
       "size_bytes": 243,
       "sha256": "4eb9bd3ee233351a5ce01d00f87612f32db33ec51bed2163325e69e710c2c859"
+    },
+    {
+      "id": "0000001",
+      "title": "ID စမ်းသပ်သီချင်း",
+      "language": "my",
+      "key": "C",
+      "version": 1,
+      "path": "songs/my/0000001.txt",
+      "size_bytes": 376,
+      "sha256": "4827ac44486c60114fb47adc0896ff821bca758611dee49d096ae2647229e584"
     }
-  ]
+  ],
+  "last_song_number": 1
 }
