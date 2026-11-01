@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build_number": 1,
+  "package_name": "com.example.flutter_application_2",
+  "apk_url": "https://github.com/mcsbappmm-wq/mcsb-server/releases/download/v1.0.0/MCSB-v1.0.0.apk",
+  "release_notes": "First public release of MCSB."
+}
